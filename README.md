@@ -19,6 +19,11 @@ App has been made from [this tutorial](https://www.youtube.com/watch?v=kN1Czs0m1
 	- npm run package-mac
 * Executable will be present in release-builds folder
 
+## Technologies
+
+* Electron JS
+* Materialize CSS
+
 ## LICENSE
 
 Licensed under [MIT License](LICENSE)
